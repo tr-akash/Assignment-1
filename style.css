@@ -1,0 +1,78 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.parent{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.left-side{
+    font-size: 20px;
+}
+.left-side p{
+    font-size: 25px;
+}
+.left-side-1{
+    width: 100%;
+    margin-top: 15%;
+}
+.left-side-1-head{
+    width: 80%;
+    font-size: 40px;
+    border-left: 4px solid red;
+    font-family: 'Merriweather', serif;
+    padding-left: 15px;
+}
+.photo img{
+    width: 600px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border: 1px solid black;
+}
+.link-button:hover{
+    background-color: indianred;
+}
+.second-section{
+    text-align: center;
+    margin-top: 100px;
+}
+.second-section h1{
+    font-size: 60px;
+}
+.mission{
+    width: 500px;
+    height: auto;
+    border-radius: 40px;
+    background-color: rgb(200, 235, 247);
+}
+.vission{
+    width: 500px;
+    height: auto;
+    border-radius: 40px;
+    background-color: rgb(255, 212, 212);
+}
+.goals{
+    width: 500px;
+    height: auto;
+    border-radius: 40px;
+    background-color: rgb(245, 245, 206);
+}
+.div-img img{
+    width: 50%;
+}
+.all-mission{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.color{
+    color: lightsalmon;
+}
