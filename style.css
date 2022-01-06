@@ -89,6 +89,9 @@ body{
 .color{
     color: rgb(255,197,1);
 }
+.color:hover{
+    color: red;
+}
 .third-section{
     background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
