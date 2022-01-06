@@ -36,29 +36,40 @@ body{
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
-    font-weight: 700;
+    font-weight: 400;
+}
+.link-button:hover{
+    background-color: rgb(211, 29, 12);
+    padding: 12px 32px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
 }
 .second-section{
     text-align: center;
     margin-top: 100px;
 }
+.second-section p{
+    padding-left: 0 15px 40px 15px;
+    font-size: 20px;
+}
 .second-section h1{
     font-size: 60px;
     margin-bottom: 80px;
 }
-.mission{
+.productive{
     width: 500px;
     height: auto;
     border-radius: 40px;
     background-color: rgb(200, 235, 247);
 }
-.vission{
+.code{
     width: 500px;
     height: auto;
     border-radius: 40px;
     background-color: rgb(255, 212, 212);
 }
-.goals{
+.books{
     width: 500px;
     height: auto;
     border-radius: 40px;
@@ -146,8 +157,8 @@ footer h1{
     font-size: 40px;
 }
 footer p{
-    font-family: 'Fredoka One', cursive;
+    color: red;
 }
 .footer-color{
-    color: red;
+    color: white;
 }
